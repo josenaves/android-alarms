@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AlarmManager Example</string>
+    <string name="text_alarm">A simple AlarmManager example</string>
+
+</resources>
